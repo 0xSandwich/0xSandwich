@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+💻 Projects
+- SaaS
+- E-commerce
+- Discord, Telegram bots
+- NFT (landing page, minting site, dashboard)
+- Interactive experience (three.js)
+
+💓 React.js
+
+⚡ Front-end
+- Javascript ES6
+- React.js & Typescript
+- Ethereum & EVM blockchains smart contract interactions (ethers.js & web3.js)
+- Three.js
+- HTML / CSS
+
+⚡ Back-end
+- Node.js
+- PHP
+
+⚙️ Tools
+Design : Figma / Illustrator / Photoshop
+CMS : Wordpress / Shopify / Strapi
+DB : Mongo / SQL / PostgreSql
+Others : Git / ESLint
